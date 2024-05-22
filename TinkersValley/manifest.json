@@ -1,0 +1,10 @@
+{
+  "Name": "匠谷",
+  "Author": "三氢",
+  "Version": "1.0.0",
+  "Description": "在星露谷里享受匠魂",
+  "UniqueID": "trih.tinkersvalley",
+  "EntryDll": "TinkersValley.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
